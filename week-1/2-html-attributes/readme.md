@@ -14,4 +14,4 @@ git commit -m "Completed 2-html-attributes exercise"
 git push
 ```
 
-If you are having trouble, review the following information about HTML [Attributes](https://marksheet.io/html-syntax.html#attributes), [Links](https://marksheet.io/html-links.html) and [Images](https://marksheet.io/html-images.html).
+If you are having trouble,, review the following information about HTML [Attributes](https://marksheet.io/html-syntax.html#attributes), [Links](https://marksheet.io/html-links.html) and [Images](https://marksheet.io/html-images.html).
