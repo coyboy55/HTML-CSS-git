@@ -1,4 +1,4 @@
-# CSS Selectors
+# CSS Selectors.
 
 There are no background colours applied to the messages in this example. Look closely at the HTML code for this example. Then open the `message-backgrounds.css` file and use CSS selectors for id, tag and class names to give each message a different background. _Do not edit the `index.html` file._
 
