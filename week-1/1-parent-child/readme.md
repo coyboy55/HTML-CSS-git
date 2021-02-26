@@ -11,6 +11,6 @@ git commit -m "Completed 1-parent-child exercise"
 git push
 ```
 
-_Hint: Use the first message as an example to help you write the second message correctly._
+_Hint: Use the first message as an example tohelp you write the second message correctly._
 
 When you're done, move on to the next exercise.
