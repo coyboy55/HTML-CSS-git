@@ -1,4 +1,4 @@
-# Adding Links and Scripts.
+# Adding Links and Scripts..
 
 This site is missing the CSS styles. It's also missing JavaScript code that will convert the URLs ("http://") into links that can be clicked.
 
