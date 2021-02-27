@@ -1,5 +1,9 @@
 /* Add your own CSS code below */
-.countries{
+.countries--first{
+	justify-content: flex-end;
 	display: flex;
+	}
+.countries--third{
 	flex-direction:row-reverse;
+	flex-wrap: wrap-reverse;
 }
