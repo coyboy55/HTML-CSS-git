@@ -4,6 +4,20 @@
 
 }
 /* Add your own CSS code below */
-.countries--tall{
-	align-content: start;
+.countries--first{
+	justify-content: center;
+}
+.countries--second{
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+.countries--third{
+	  flex-direction: column;
+	justify-content: flex-end;
+	align-items: flex-start;
+}
+.countries--third{
+	  flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
 }
