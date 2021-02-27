@@ -1,5 +1,7 @@
 .countries {
   display: flex;
+  
+  justify-content: space-between;
 }
 
 .countries--second .country {
