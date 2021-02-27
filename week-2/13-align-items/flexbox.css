@@ -1,4 +1,9 @@
 .countries {
   display: flex;
+
+
 }
 /* Add your own CSS code below */
+.countries--tall{
+	align-content: start;
+}
