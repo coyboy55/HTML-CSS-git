@@ -1,1 +1,32 @@
 /* Add your own CSS code below */
+
+span.heart{
+	color: #c85308;
+}
+@media screen and (min-width: 992px){
+	.hero__title{
+		font-size: 4em;
+	}
+}
+.main-nav__list{
+	display: flex;
+	justify-content: space-around ;
+	
+}
+@media screen and (min-width: 767px){
+	.site-wrapper{
+		display: flex;
+	}
+}
+@media screen and (min-width: 767px){
+	.views{
+		display: flex;
+		justify-content: space-around ;
+	}
+}
+P{
+	max-width: 40em;
+	justify-content:center;
+	line-height:2em;
+	
+}
