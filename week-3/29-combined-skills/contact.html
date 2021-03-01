@@ -56,13 +56,29 @@
         <form method="GET" class="contact-form">
           <div class="contact-form__field">
             <label for="name">Name</label>
-            <input type="text" name="name" id="name" />
+            <input required type="text" name="name" id="name" />
           </div>
           <div class="contact-form__field">
-            <textarea
-              name="message"
-              placeholder="Your message should not be longer than 200 words."
-            ></textarea>
+            <label>
+              message
+              <textarea
+                required
+                name="message"
+                placeholder="Your message should not be longer than 200 words."
+              ></textarea>
+            </label>
+            <label
+              >email:
+              <input required type="email" />
+            </label>
+            <fieldset>
+              <legend text="branch">branch</legend>
+              <label>london <input type="radio" name="A"/></label>
+
+              <label>glaskow <input type="radio" name="A"/></label>
+
+              <label>manshester <input type="radio" name="A"/></label>
+            </fieldset>
           </div>
           <button type="submit">Send</button>
         </form>
